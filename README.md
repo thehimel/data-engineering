@@ -22,6 +22,7 @@
 ## Courses
 
 * Data Engineering
+  * [Data Engineering with AWS - Udacity](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
   * [Data Engineering Foundations - LinkedinLearning](https://www.linkedin.com/learning/data-engineering-foundations)
 * SQL
   * [Complete SQL Mastery - Code with Mosh](https://codewithmosh.com/p/complete-sql-mastery)

@@ -8,6 +8,8 @@
 
 ## Technologies
 
+## Essential
+
 * Python
 * SQL
 * Postgres
@@ -18,6 +20,12 @@
 * Kafka
 * AWS S3
 * Docker
+
+## Advanced
+
+* AWS Glue
+* AWS EMR
+* Power BI
 
 ## Courses
 

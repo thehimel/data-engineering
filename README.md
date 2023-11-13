@@ -37,13 +37,15 @@
 * Docker
   * [The Ultimate Docker Course - Code with Mosh](https://codewithmosh.com/p/the-ultimate-docker-course)
 * Apache Spark
-  * [Apache Spark Essential Training: Big Data Engineering - LinkedinLearning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-14259237)
-  * [Introduction to Spark SQL and DataFrames - LinkedinLearning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes)
-  * [Architecting Big Data Applications: Batch Mode Application Engineering (2017) - LinkedinLearning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-2017)
-  * [Architecting Big Data Applications: Real-Time Application Engineering - LinkedinLearning](https://www.linkedin.com/learning/architecting-big-data-applications-real-time-application-engineering)
-  * [Stream Processing Design Patterns with Spark - LinkedinLearning](https://www.linkedin.com/learning/stream-processing-design-patterns-with-spark)
-  * [Apache PySpark by Example - LinkedinLearning](https://www.linkedin.com/learning/apache-pyspark-by-example)
-  * [Stream Processing Design Patterns with Spark - LinkedinLearning](https://www.linkedin.com/learning/stream-processing-design-patterns-with-spark)
+  * [Advance Your Data Skills in Apache Spark - LinkedinLearning](https://www.linkedin.com/learning/paths/advance-your-data-skills-in-apache-spark)
+    * [Apache Spark Essential Training: Big Data Engineering - LinkedinLearning](https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering-14259237)
+    * [Introduction to Spark SQL and DataFrames - LinkedinLearning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes)
+    * [Architecting Big Data Applications: Batch Mode Application Engineering (2017) - LinkedinLearning](https://www.linkedin.com/learning/architecting-big-data-applications-batch-mode-application-engineering-2017)
+    * [Architecting Big Data Applications: Real-Time Application Engineering - LinkedinLearning](https://www.linkedin.com/learning/architecting-big-data-applications-real-time-application-engineering)
+    * [Stream Processing Design Patterns with Spark - LinkedinLearning](https://www.linkedin.com/learning/stream-processing-design-patterns-with-spark)
+    * [Cloud Hadoop: Scaling Apache Spark - LinkedinLearning](https://www.linkedin.com/learning/cloud-hadoop-scaling-apache-spark)
+    * [Apache PySpark by Example - LinkedinLearning](https://www.linkedin.com/learning/apache-pyspark-by-example)
+    * [Stream Processing Design Patterns with Spark - LinkedinLearning](https://www.linkedin.com/learning/stream-processing-design-patterns-with-spark)
 * Apache Airflow
   * [Learning Apache Airflow - LinkedinLearning](https://www.linkedin.com/learning/learning-apache-airflow)
   * [Apache Airflow Essential Training - LinkedinLearning](https://www.linkedin.com/learning/apache-airflow-essential-training?u=73384250)

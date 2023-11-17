@@ -55,3 +55,12 @@
   * [Advanced Snowflake: Deep Dive Cloud Data Warehousing and Analytics - LinkedinLearning](https://www.linkedin.com/learning/advanced-snowflake-deep-dive-cloud-data-warehousing-and-analytics)
 * Data in AWS
   * [Amazon Web Services: Data Services - LinkedinLearning](https://www.linkedin.com/learning/amazon-web-services-data-services-2)
+
+## Linkedin Skills
+
+* Data Quality
+* Extract, Transform, Load (ETL)
+* Scala
+* Data Engineering
+* Data Science
+* Software Engineering
